@@ -11,7 +11,7 @@ Some of the feature:
 -------------------------------
 Some snapshots of the application: 
 
-![image](https://user-images.githubusercontent.com/86063069/232195536-82faf085-8036-4dd9-b265-219b48df9820.png)
-![image](https://user-images.githubusercontent.com/86063069/232195570-a29d3266-ba91-4135-83cd-d184240d3b8e.png)
-![image](https://user-images.githubusercontent.com/86063069/232195590-26ce8195-1740-4062-bff3-3e99f2ca0374.png)
-
+![image](https://user-images.githubusercontent.com/86063069/233160518-c2e6326d-358f-4796-a42a-d9593cdf0ce8.png)
+![image](https://user-images.githubusercontent.com/86063069/233160682-05ff5937-c5f2-4f3e-bae5-3ec8c0710950.png)
+![image](https://user-images.githubusercontent.com/86063069/233161011-750b3cb7-cd3f-498d-8db3-40483ea14457.png)
+![image](https://user-images.githubusercontent.com/86063069/233160749-2a179c84-eb71-41dd-8d4f-c72bd270b47f.png)
